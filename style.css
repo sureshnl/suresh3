@@ -8,11 +8,12 @@ header{
 .head1{
 width: 45%;
 
-margin-left: 0%;
 height: auto;
 display: block;
 
 }
+
+
 .head1 img{
 width: 20%;
 
@@ -109,7 +110,7 @@ height: auto;
   }
   .head1 img{
   width: 30%;
- align-content: center;
+
 
 
   }
